@@ -10,14 +10,8 @@ p{
 h1{
     color: yellow;
 }
-h2{
-    color: yellow;
-}
-
-table, td {
+table, tr, td {
     border: 1px solid white;
-    background-color: black;   
-}
-td{
-    padding: 10px;
+    background-color: black;
+    margin: auto; 
 }
