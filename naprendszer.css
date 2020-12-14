@@ -1,0 +1,37 @@
+body{
+    background-image: url("hatter.jpg");
+    background-size: cover;
+    color: white;
+}
+p{
+    color: white;
+}
+h1{
+    color: yellow;
+}
+h2{
+    color: yellow;
+}
+.bekezedesek{
+    color: black;
+}
+
+.felkover{
+    font-weight: bold;
+}
+
+table, td {
+    border: 1px solid white;
+    background-color: black;   
+}
+td{
+    padding: 20px;
+    text-align:center;
+}
+.hatterzold{
+    background-color: green;
+    
+}
+.hatterkek{
+    background-color: blue;
+}
