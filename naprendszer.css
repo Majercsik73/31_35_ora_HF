@@ -5,6 +5,7 @@ body{
 }
 p{
     color: white;
+    size: 4px;
 }
 h1{
     color: yellow;
@@ -12,26 +13,11 @@ h1{
 h2{
     color: yellow;
 }
-.bekezedesek{
-    color: black;
-}
-
-.felkover{
-    font-weight: bold;
-}
 
 table, td {
     border: 1px solid white;
     background-color: black;   
 }
 td{
-    padding: 20px;
-    text-align:center;
-}
-.hatterzold{
-    background-color: green;
-    
-}
-.hatterkek{
-    background-color: blue;
+    padding: 10px;
 }
