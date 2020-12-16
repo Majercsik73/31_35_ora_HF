@@ -3,6 +3,10 @@ body{
     background-size: cover;
     color: white;
 }
+img{
+    display: block;
+    margin : auto
+}
 p{
     color: white;
     size: 4px;
