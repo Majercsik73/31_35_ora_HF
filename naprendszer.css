@@ -19,3 +19,13 @@ table, tr, td {
     background-color: black;
     margin: auto; 
 }
+a:link {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+ }
+a:visited {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+ }
